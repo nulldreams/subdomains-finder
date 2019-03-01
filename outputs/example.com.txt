@@ -1,6 +1,6 @@
+www.example.com
 *.example.com
-dev.example.com
 m.example.com
+dev.example.com
 products.example.com
 support.example.com
-www.example.com

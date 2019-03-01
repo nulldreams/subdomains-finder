@@ -1,0 +1,11 @@
+*.kotisdesign.com
+autodiscover.kotisdesign.com
+careers.kotisdesign.com
+college.kotisdesign.com
+email.kotisdesign.com
+ftp.kotisdesign.com
+go.kotisdesign.com
+sales.kotisdesign.com
+test1.kotisdesign.com
+www.email.kotisdesign.com
+www.kotisdesign.com

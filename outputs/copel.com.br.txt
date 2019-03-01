@@ -1,5 +1,0 @@
-autodiscover.copel.com.br
-legacy.copel.com.br
-mail.copel.com.br
-outlook.copel.com.br
-srv12-vivo.copel.com.br

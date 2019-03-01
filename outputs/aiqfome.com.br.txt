@@ -1,3 +1,0 @@
-*.aiqfome.com.br
-mail.aiqfome.com.br
-www.aiqfome.com.br

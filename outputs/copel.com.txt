@@ -1,2 +1,0 @@
-*.copel.com
-www.copel.com

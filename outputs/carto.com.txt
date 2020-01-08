@@ -1,0 +1,4 @@
+blog-test.carto.com
+go.carto.com
+mobile-licenseserver.carto.com
+*.carto.com

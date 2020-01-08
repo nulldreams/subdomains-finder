@@ -107,3 +107,10 @@ subfinder find -d spotify.com
 | devnews.spotify.com                    |    200 |
 '-------------------------------------------------'
 ```
+
+### Examples
+
+```
+subfinder find -d spotify.com
+subfinder find -d spotify.com -o ./outputs
+```

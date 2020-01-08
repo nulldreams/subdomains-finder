@@ -2,15 +2,22 @@
 
 Simple way to find any subdomain from sites 🐱‍💻
 
-### install
+### install local
 ```
 git clone https://github.com/nulldreams/subdomains-finder.git
 cd subdomains-finder && npm i
 node index.js find -d example.com
 ```
 
-### demo
-[![asciicast](https://asciinema.org/a/Xggt7vqiFPcBQhbEP7NXWzSyU.svg)](https://asciinema.org/a/Xggt7vqiFPcBQhbEP7NXWzSyU)
+### install global
+```
+npm i -g subdomains-finder
+
+subfinder find -d spotify.com
+```
+
+<!-- ### demo
+[![asciicast](https://asciinema.org/a/Xggt7vqiFPcBQhbEP7NXWzSyU.svg)](https://asciinema.org/a/Xggt7vqiFPcBQhbEP7NXWzSyU) -->
 
 ### example spotify.com
 ```

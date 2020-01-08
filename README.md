@@ -16,8 +16,12 @@ npm i -g subdomains-finder
 subfinder find -d spotify.com
 ```
 
-<!-- ### demo
-[![asciicast](https://asciinema.org/a/Xggt7vqiFPcBQhbEP7NXWzSyU.svg)](https://asciinema.org/a/Xggt7vqiFPcBQhbEP7NXWzSyU) -->
+### Examples
+
+```
+subfinder find -d spotify.com
+subfinder find -d spotify.com -o ./outputs
+```
 
 ### example spotify.com
 ```
@@ -106,11 +110,4 @@ subfinder find -d spotify.com
 | adlab.spotify.com                      |    404 |
 | devnews.spotify.com                    |    200 |
 '-------------------------------------------------'
-```
-
-### Examples
-
-```
-subfinder find -d spotify.com
-subfinder find -d spotify.com -o ./outputs
 ```

@@ -1,9 +1,9 @@
 {
   "name": "subdomains-finder",
-  "version": "0.0.5",
+  "version": "0.0.9",
   "main": "./index.js",
   "bin": {
-    "subfy": "./lib/index.js"
+    "subfinder": "./lib/index.js"
   },
   "preferGlobal": true,
   "dependencies": {

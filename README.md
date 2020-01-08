@@ -2,14 +2,14 @@
 
 Simple way to find any subdomain from sites 🐱‍💻
 
-### install local
+### local
 ```
 git clone https://github.com/nulldreams/subdomains-finder.git
 cd subdomains-finder && npm i
 node index.js find -d example.com
 ```
 
-### install global
+### global
 ```
 npm i -g subdomains-finder
 
